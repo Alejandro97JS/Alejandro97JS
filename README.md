@@ -1,5 +1,5 @@
 # 👋 About Me:
-Tech Lead | Software Backend Developer | Python 🐍 Django<br><br>Passionate about software development, good practices & AI 🤖
+Tech Lead | Software Architect | Software Backend Developer | Python 🐍 Django<br><br>Passionate about software development, good practices, software architecture & AI 🤖
 
 
 # 💻 Tech Stack:
